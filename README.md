@@ -1,4 +1,5 @@
-# TDX Studio
+# Treasure Studio
 
-TDX https://tdx.treasuredata.com/ on Desktop
+Treasure Studio is a desktop app for using TDX https://tdx.treasuredata.com/ 
+
 
