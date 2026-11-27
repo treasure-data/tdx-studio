@@ -1,5 +1,5 @@
 # Treasure Studio
 
-Treasure Studio is a desktop app for using TDX https://tdx.treasuredata.com/ 
+Treasure Studio is a desktop app for using TDX https://tdx.treasure.ai/ 
 
 
